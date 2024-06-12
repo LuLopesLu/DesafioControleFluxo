@@ -15,7 +15,7 @@ public class Contador {
 				contar.contar(parametroUm, parametroDois);
 				
 			}catch(Exception e){
-				System.out.println("O valor do primeiro número não pode ser maior que o segundo");
+				System.out.println("Valor do primeiro número não pode ser maior que o segundo");
 			}
 
 	}		
